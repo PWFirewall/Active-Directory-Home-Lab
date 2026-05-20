@@ -91,9 +91,65 @@ Client was using incorrect DNS settings (public DNS instead of DC01).
 
 ## 📸 Screenshots
 
-> (Add images in `/screenshots` folder and link them below)
+#### ISO's Downloaded
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/01-isos-downloaded.png
 
-### 
+#### First GitHub Repo Created
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/02-github-repo-created.png
+
+#### DC01 VM Setup
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/03-dc01-vm-setup.png
+
+#### CLIENT01 VM Setup
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/04-client01-vm-setup.png
+
+#### DC01 Install
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/05-dc01-fresh-install.png
+
+#### DC01 Renamed
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/06-dc01-renamed.png
+
+#### DC01 Static IP
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/07-dc01-static-ip.png
+
+#### Domain Creation
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/08-domain-creation.png
+
+#### AD Console
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/09-ad-console.png
+
+#### Users Created
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/10-users-created.png
+
+#### Groups Created
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/11-groups-created.png
+
+#### File Share Permissions
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/12-share-permissions.png
+
+#### CLIENT01 Desktop
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/13-client-desktop.png
+
+#### CLIENT01 DNS
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/14-client-dns.png
+
+#### CLIENT01 Ping To DC01
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/15-ping-dc01-success.png
+
+#### Setting DNS Primary
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/16-setting-dns-primary.png
+
+#### Confirm DNS Set
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/17-confirm-dns-set.png
+
+#### Domain Join paullab.local
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/18-domain-join-paullab-local.png
+
+#### Login Domain Account
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/19-login-domain-account.png
+
+#### CLIENT01 In ADUC
+https://github.com/PWFirewall/Active-Directory-Home-Lab/blob/main/screenshots/20-client01-in-aduc.png
 
 ---
 

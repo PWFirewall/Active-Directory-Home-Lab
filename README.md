@@ -2,9 +2,9 @@
 
 ## 🔷 Overview
 
-This project demonstrates the setup of a Windows Active Directory environment using Windows Server 2022 and Windows 11 virtual machines. It simulates a real enterprise network with domain services, users, groups, and shared resources.
+This project demonstrates how to set up a Windows Active Directory environment using Windows Server 2022 and Windows 11 virtual machines. It simulates a real enterprise network with domain services, users, groups, and shared resources.
 
-The lab was built to practice core system administration skills including identity management, DNS configuration, domain joining, and troubleshooting network authentication issues.
+The lab was built to practice core system administration skills, including identity management, DNS configuration, domain joining, and troubleshooting network authentication issues.
 
 ---
 
@@ -77,7 +77,7 @@ The lab was built to practice core system administration skills including identi
 ### ❌ DNS Misconfiguration Prevented Domain Join
 
 **Problem:**
-CLIENT01 could not locate the domain during join process.
+CLIENT01 could not locate the domain during the join process.
 
 **Cause:**
 Client was using incorrect DNS settings (public DNS instead of DC01).
